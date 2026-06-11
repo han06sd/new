@@ -1,4 +1,4 @@
-#include "add.h"
+#include "mul.h"
 
 int main(int a, int b)
 {
